@@ -1,0 +1,28 @@
+#forms{
+    margin: 1% ;
+    padding: 2%;
+    border: solid rgb(165, 160, 160);
+}
+.centre{
+    text-align: center;
+    color: rgb(252, 0, 0);
+    text-shadow: 10em grey ;
+}
+.faq{
+    margin: 1% ;
+    padding: 1%;
+    border: 0.5em solid rgb(240, 192, 192);
+}
+#faqhead{
+    text-align: center;
+    color: maroon;
+}
+.main{
+    text-align: center;
+    color: indigo;
+}
+#maincontent{
+    padding: 2em;
+    font-size: x-large;
+    font-family: 'Times New Roman', Times, serif;
+}
